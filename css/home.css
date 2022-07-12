@@ -107,6 +107,7 @@ margin: 2%;}
     border: 1px solid azure;
     border-radius: 2vw;
     vertical-align: middle;
+    aspect-ratio: 1;
 }
 .icon-link {
     font-size:1.5vw;
